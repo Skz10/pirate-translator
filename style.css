@@ -1,8 +1,16 @@
+body{
+    background-image: url("images/pirate.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
 .inptxtarea{
     display: block;
     padding: 1.5rem;
     margin: auto;
     width: 30rem;
+    background:none;
 }
 
 .out-txt{
