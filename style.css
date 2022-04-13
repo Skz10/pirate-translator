@@ -1,0 +1,22 @@
+.inptxtarea{
+    display: block;
+    padding: 1.5rem;
+    margin: auto;
+    width: 30rem;
+}
+
+.out-txt{
+    display: block;
+    padding: 1.5rem;
+    margin: auto;
+    width: 30rem;
+    border: 2px solid black;
+    height: 10rem;
+}
+
+button{
+    margin-left: 450px;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
