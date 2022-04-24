@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&display=swap');
+
 body{
     background-image: url("images/pirate.jpg");
     background-repeat: no-repeat;
@@ -11,20 +14,39 @@ body{
     margin: auto;
     width: 30rem;
     background:none;
+    font-family: 'Roboto Slab', serif;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    border-radius: 10%;
 }
 
 .out-txt{
     display: block;
+    color: white;
     padding: 1.5rem;
     margin: auto;
     width: 30rem;
     border: 2px solid black;
     height: 10rem;
+    background-color: rgba(0,0,0,0.5);
+    font-family: 'Roboto Slab', serif;
+    border-radius: 10%;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Rye', cursive;
 }
 
 button{
     margin-left: 450px;
     text-align: center;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    display: block;
+    font-family: 'Rye', cursive;
+    background-color: blueviolet;
+    border-radius: 25%;
+    padding: 1rem;
+    margin: auto;
+    color: white;
 }
